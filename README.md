@@ -1,5 +1,7 @@
-#python-practice:
- My Python practice programs.
+# python-practice
 
-#Project
--project1.py: student profile program
+My Python practice programs.
+
+## Projects
+
+- project1.py: student profile program
